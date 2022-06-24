@@ -1,0 +1,17 @@
+C:\Users\Nur\source\repos\futboloyunudeneme4\bin\Debug\futboloyunudeneme4.exe.config
+C:\Users\Nur\source\repos\futboloyunudeneme4\bin\Debug\futboloyunudeneme4.exe
+C:\Users\Nur\source\repos\futboloyunudeneme4\bin\Debug\futboloyunudeneme4.pdb
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.Form1.resources
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.Properties.Resources.resources
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.exe
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.pdb
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.Form2.resources
+C:\Users\Nur\source\repos\futboloyunudeneme4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\futboloyunudeneme4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nur\source\repos\futboloyunudeneme4\obj\Debug\futboloyunudeneme4.csproj.ResolveComReference.cache
